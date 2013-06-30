@@ -16,7 +16,7 @@ function V = pascalPartitionMat();
 %
 % Citations:
 %   Blaschko, M. B., W. Zaremba, and A. Gretton: Taxonomic Prediction with
-%   Tree-Structured Covariances. Under submission.
+%   Tree-Structured Covariances. ECML/PKDD, 2013.
 %
 %   Everingham et al, The PASCAL Visual Object Classes (VOC)
 %   Challenge, IJCV 2010 

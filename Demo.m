@@ -47,7 +47,7 @@ function [accuracy,Bflower,Vflower,classesFlower,Bpascal,Vpascal,classesPascal] 
 %   Maximization. Neural Information Processing Systems (NIPS), 2008.
 %
 %   Blaschko, M. B., W. Zaremba, and A. Gretton: Taxonomic Prediction with
-%   Tree-Structured Covariances. Under submission.
+%   Tree-Structured Covariances. ECML/PKDD, 2013.
 
 % download Oxford Flowers data if necessary
 if(~exist('OxfordFlowers'))

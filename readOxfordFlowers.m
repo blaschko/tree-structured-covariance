@@ -12,7 +12,7 @@ function [Kx,Y,V,classes] = readOxfordFlowers();
 %
 % citations:
 %   Blaschko, M. B., W. Zaremba, and A. Gretton: Taxonomic Prediction with
-%   Tree-Structured Covariances. Under submission.
+%   Tree-Structured Covariances. ECML/PKDD, 2013.
 %
 %   see Oxford Flowers website for dataset citations:
 %   http://www.robots.ox.ac.uk/~vgg/data/flowers/ 

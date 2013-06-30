@@ -22,7 +22,7 @@ function [alpha,state]=covMulticlass(K,Y,S,C,L,convergenceThreshold);
 %
 % Citation:
 %   Blaschko, M. B., W. Zaremba, and A. Gretton: Taxonomic Prediction with
-%   Tree-Structured Covariances. Under submission.
+%   Tree-Structured Covariances. ECML/PKDD, 2013.
 
     if(nargin<3)
         S = eye(size(Y,2)); % standard multiclass prediction

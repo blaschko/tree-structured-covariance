@@ -14,7 +14,7 @@ function V = OxfordFlowersPartitionMat();
 %
 % Citation:
 %   Blaschko, M. B., W. Zaremba, and A. Gretton: Taxonomic Prediction with
-%   Tree-Structured Covariances. Under submission.
+%   Tree-Structured Covariances. ECML/PKDD, 2013.
 
 
 V = [ 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;... % Daffodil

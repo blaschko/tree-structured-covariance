@@ -4,6 +4,8 @@ Written by Matthew Blaschko under GPLv3, see LICENSE.txt for a copy.
 This code package is a demo of the machine learning methods described in:
    Blaschko, M. B., W. Zaremba, and A. Gretton: Taxonomic Prediction with
    Tree-Structured Covariances. ECML/PKDD, 2013.
+   
+Full text of the paper is available for download from http://hal.inria.fr/hal-00839775/
 
 The main function of interest is Demo.m, which shows how to use each piece of
 functionality.  If you use any of this code in your research, please use the above citation.
